@@ -1,0 +1,3 @@
+[submodule "cppeos"]
+	path = cppeos
+	url = git@github.com:larryk85/llvm
