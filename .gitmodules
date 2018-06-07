@@ -1,3 +1,11 @@
-[submodule "cppeos"]
-	path = cppeos
-	url = git@github.com:larryk85/llvm
+[submodule "pfr"]
+	path = pfr
+	url = https://github.com/EOSIO/magic_get.git
+[submodule "libraries/libc/musl"]
+	path = libraries/libc/musl
+	url = https://github.com/eosio/musl
+	branch = eosio
+[submodule "libraries/libc++/libcxx"]
+	path = libraries/libc++/libcxx
+	url = https://github.com/eosio/libcxx
+	branch = eosio
