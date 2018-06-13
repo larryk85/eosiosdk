@@ -38,4 +38,4 @@ add_subdirectory(libraries)
 #add_subdirectory(eosiolib)
 
 add_subdirectory(hello)
-add_subdirectory(exchange)
+#add_subdirectory(exchange)
